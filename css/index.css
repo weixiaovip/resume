@@ -271,19 +271,19 @@ html,body,.swiper-container{
 }
 
 .page2 .name{
-    padding: .15rem;
+    padding: .15rem .45rem;
     position: absolute;
     top: 2.31rem;
     left: 0.25rem;
-    width: 2.45rem;
+    width: 1.85rem;
     height: .20rem;
     line-height: .20rem;
-    font-size: .16rem;
+    font-size: .18rem;
     text-align: right;
-    color: rgb(35, 163, 211);
+    color: rgb(33, 47, 255);
     background: rgba(255,255,255,.5);
     letter-spacing: .1rem;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 .page2  .content{
@@ -522,6 +522,7 @@ html,body,.swiper-container{
     width: .60rem;
     height: .30rem;
     color: white;
+    font-size: .12rem;
 }
 
 .page4 .workContent p{
@@ -531,6 +532,7 @@ html,body,.swiper-container{
     width: 1.80rem;
     height: .45rem;
     color: white;
+    font-size: .14rem;
 }
 
 
