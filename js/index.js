@@ -7,6 +7,7 @@
     document.documentElement.style.fontSize = winW / 320 * 100 + 'px';
 }();
 
+
 var swiper = new Swiper('.swiper-container', {
     loop: true,
     direction: 'vertical', //竖向切换
